@@ -1,4 +1,4 @@
-With three years of molecular science research experience and upcoming completion of a Master's degree in Molecular Science and Software Engineering from UC Berkeley, I have a unique blend of scientific knowledge and technical experience. I'm eager to apply my combined experience to a role in the molecular sciences. I'm open to biotechnology and pharmaceutical roles
+With four years of molecular science research experience and recent completion of a Master's degree in Molecular Science and Software Engineering from UC Berkeley, I have a unique blend of scientific knowledge and computational skills. I'm eager to apply my combined experience to a role in biotech or pharma!
 
 <!---
 koreogundele/koreogundele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
